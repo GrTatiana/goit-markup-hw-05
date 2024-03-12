@@ -637,8 +637,8 @@ font-weight: 500;
     fill: #404040;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .contact-form-input:focus + .contact-form-field-icon{
-   fill: #4D5AE5;
+  .contacn-form-input:focus+ .contact-form-field-icon{
+   fill:#4D5AE5;
    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
  
